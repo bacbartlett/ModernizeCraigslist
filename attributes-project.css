@@ -31,3 +31,20 @@ p.more {
 }
 
 /* Write your CSS here. */
+* {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  background-color: Whitesmoke;
+  color: #464646;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+ul {
+  padding: 0;
+}
+
+ul > li {
+  list-style-type: none;
+}
